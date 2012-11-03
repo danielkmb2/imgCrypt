@@ -2,4 +2,4 @@ This program reads a bmp file and a data file, and combines the two into a new b
 
 Usage: ./imgcrypt <-e|-d> source.bmp file [dest.bmp]
         -e : Hides the contet of file in source.bmp, creating dest.bmp
-        -d : Recovers the content of a file hidden in source.bmp, and writes them to file
+        -d : Recovers the contents of a file hidden in source.bmp, and writes them to file
