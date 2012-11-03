@@ -1,4 +1,4 @@
-This programs reads a bmp file and a data file, and combines te two in a new bmp with the data enbedden on it.
+This program reads a bmp file and a data file, and combines the two into a new bmp with the data embedded inside it.
 
 Usage: ./imgcrypt <-e|-d> source.bmp file [dest.bmp]
         -e : Hides the contet of file in source.bmp, creating dest.bmp
